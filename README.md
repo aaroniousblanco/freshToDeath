@@ -10,9 +10,6 @@ Technologies Used:
 
 Express, HTML, CSS, Handlebars, Javascript, jQuery, Node.js, NPM, GeoJSON
 
-Suggested Edits:
-
-Map Marker Labels, Search Results Formatting, Writing Reviews, Market Pages
 
 
 
